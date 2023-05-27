@@ -1,0 +1,13 @@
+GET /index.php?id=1 HTTP/3
+Host: grupobright.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Alt-Used: grupobright.com
+Connection: keep-alive
+Cookie: __wpdm_client=13330f607a90ac1b1d8afe18b4ac8cab; _hjSessionUser_3498334=eyJpZCI6IjJiNjQwYzY5LTRmMDItNWJlNi1hNDE0LTYwOGE2NjU0OGI4OCIsImNyZWF0ZWQiOjE2ODUxOTQyNDc0MTcsImV4aXN0aW5nIjp0cnVlfQ==; _hjFirstSeen=1; _hjIncludedInSessionSample_3498334=0; _hjSession_3498334=eyJpZCI6IjFkZDk5ZWRjLWQ4MGUtNDJhZC05MjI4LTQ5OGExNmU5MzZkYiIsImNyZWF0ZWQiOjE2ODUxOTQyNDc0MTksImluU2FtcGxlIjpmYWxzZX0=; _hjAbsoluteSessionInProgress=0
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: none
+Sec-Fetch-User: ?1
+TE: trailers
